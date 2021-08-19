@@ -18,10 +18,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Human Understanding
 - Artificial Intelligence
-- TODO
+- Computer Vision
+- Machine Learning
+- Graphics
+- Mixed Reality
+- Autonomous Driving
+- Human Understanding
 
 # Education to show in About widget
 # education:
