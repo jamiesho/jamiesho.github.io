@@ -74,10 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jamie Shotton is Partner Director of Science at Microsoft.  He leads the Mixed Reality & AI Labs in Cambridge and Belgrade, where his team incubates transformative new technologies and experiences from early stage research to shipping product.  He studied Computer Science at the University of Cambridge, where he remained for his PhD in computer vision and machine learning, before joining Microsoft in 2008.  His research focuses at the intersection of computer vision, AI, machine learning, and graphics, with particular emphasis on systems that understand the motion, shape, and appearance of people in 3D.  He has explored applications of this work for mixed reality, virtual presence, human-computer interaction, gaming, and healthcare.  He has shipped foundational features in multiple products including body tracking for Kinect and the hand- and eye-tracking that enable HoloLens 2’s instinctual interaction model.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-
+He has received multiple Best Paper and Best Demo awards at top-tier academic conferences. His work on Kinect was awarded the Royal Academy of Engineering’s gold medal [MacRobert Award](https://www.raeng.org.uk/news/news-releases/2011/June/cambridge-engineers-kinect-land-uk-prize) in 2011, and he shares Microsoft’s Outstanding Technical Achievement Award for 2012 with the Kinect engineering team. In 2014 he received the [PAMI Young Researcher Award](https://tc.computer.org/tcpami/young-researcher-award/), and in 2015 the MIT Technology Review [Innovator Under 35 Award](https://www.technologyreview.com/lists/innovators-under-35/2015/).  **Silver Medal** **FREng**
 
  [comment]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
