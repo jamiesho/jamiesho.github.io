@@ -16,15 +16,17 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # # Email form provider
+  # form:
+  #   provider: formspree
+  #   formspree:
+  #     id: test
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
   
 design:
   columns: '2'
 ---
+
+Please reach out via [LinkedIn](https://www.linkedin.com/in/jamie-shotton-295ab25).

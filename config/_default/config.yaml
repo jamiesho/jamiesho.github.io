@@ -5,7 +5,7 @@
 
 title: Jamie Shotton # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Page under development.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
