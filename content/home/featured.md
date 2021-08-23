@@ -9,8 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: "[hello](http://google.com)"
+title: Publications
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -34,3 +33,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+Please see my full publication list on [Google Scholar](https://scholar.google.com/citations?user=eSOXB6IAAAAJ&hl=en).
