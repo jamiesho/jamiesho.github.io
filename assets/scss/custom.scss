@@ -13,8 +13,10 @@
   font-size: 1.5rem !important;
 }
 
-section#about .section-heading h1 {
-  font-size: 1.8rem !important; /* Adjust this to match your other headers */
-  margin-top: 0;
-  padding-top: 0;
+section#about h1, 
+#about h1,
+.home-section#about h1 {
+  font-size: 1.8rem !important;
+  margin-top: 0 !important;
+  padding-top: 10px !important;
 }
