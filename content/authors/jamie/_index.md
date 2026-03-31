@@ -55,7 +55,7 @@ social:
   link: https://scholar.google.com/citations?user=eSOXB6IAAAAJ&hl=en
   display:
     header: true
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://x.com/Jamie_Shotton
   label: Follow me on X
