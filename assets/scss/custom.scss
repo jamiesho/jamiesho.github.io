@@ -21,3 +21,28 @@ section#about h1,
   margin-top: 0 !important;
   padding-top: 10px !important;
 }
+
+/* Target the Twitter/X icon specifically */
+.fa-twitter, .fa-x-twitter {
+  /* Hide the old bird if it's still there */
+  &:before {
+    content: "X" !important; /* Manually insert the 'X' character */
+    font-family: "Arial", sans-serif !important; /* Use a clean sans-serif X */
+    font-weight: 800;
+    font-style: normal;
+  }
+
+  /* Apply your Green/White Theme */
+  background-color: #28a745 !important; /* Your theme's Green */
+  color: white !important;              /* White X */
+  padding: 4px 8px;
+  border-radius: 4px;
+  display: inline-block;
+  line-height: 1;
+  text-decoration: none;
+  
+  &:hover {
+    background-color: #218838 !important; /* Darker green on hover */
+    color: #f8f9fa !important;
+  }
+}
