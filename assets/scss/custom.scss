@@ -16,7 +16,10 @@
 section#about h1, 
 #about h1,
 .home-section#about h1 {
-  font-size: 1.8rem !important;
+  font-size: 2.0rem !important;
+  font-weight: 700 !important;   /* Extra bold (Standard is 400, Bold is 700) */
+  color: #111 !important;        /* Deep black for extra 'pop' */
+  letter-spacing: -0.5px;        /* Tighter professional look */
   margin-top: 0 !important;
   padding-top: 10px !important;
 }
