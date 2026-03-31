@@ -57,8 +57,8 @@ social:
     header: true
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/JamieDJS
-  label: Follow me on Twitter
+  link: https://x.com/Jamie_Shotton
+  label: Follow me on X
   display:
     header: true
 # - icon: github
