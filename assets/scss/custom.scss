@@ -1,3 +1,14 @@
 .home-section {
   padding: 1rem 0 !important; /* Forces a smaller gap globally */
 }
+
+.home-section .section-heading h1 {
+  font-size: 1.5rem !important; /* Adjust this number to your liking */
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+}
+
+/* If your theme uses h2 for those headings instead of h1 */
+.home-section .section-heading h2 {
+  font-size: 1.5rem !important;
+}
