@@ -27,11 +27,11 @@ section#about h1,
   display: inline-flex !important;
   align-items: center;
   justify-content: center;
-  width: 1.2em;   /* Matches standard Font Awesome width */
-  height: 1.2em;  /* Matches standard Font Awesome height */
-  background-color: #28a745 !important; /* Your Green */
+  width: 1.0em;   /* Matches standard Font Awesome width */
+  height: 1.0em;  /* Matches standard Font Awesome height */
+  background-color: #4caf50 !important; /* Your Green */
   color: white !important;
-  border-radius: 3px;
+  border-radius: 1.5px;
   text-decoration: none;
   vertical-align: middle;
   margin-top: -2px; /* Adjusts vertical "float" to align with text */
@@ -39,7 +39,7 @@ section#about h1,
   &:before {
     content: "X" !important;
     font-family: "Verdana", sans-serif !important; /* Verdana has a cleaner 'X' */
-    font-size: 0.75rem !important; /* SHRINKS the X inside the box */
+    font-size: 1.0rem !important; /* SHRINKS the X inside the box */
     font-weight: 900 !important;
     font-style: normal;
     line-height: 1;
