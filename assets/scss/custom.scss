@@ -22,27 +22,31 @@ section#about h1,
   padding-top: 10px !important;
 }
 
-/* Target the Twitter/X icon specifically */
+/* Target the X icon to match the size and alignment of other icons */
 .fa-twitter, .fa-x-twitter {
-  /* Hide the old bird if it's still there */
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  width: 1.2em;   /* Matches standard Font Awesome width */
+  height: 1.2em;  /* Matches standard Font Awesome height */
+  background-color: #28a745 !important; /* Your Green */
+  color: white !important;
+  border-radius: 3px;
+  text-decoration: none;
+  vertical-align: middle;
+  margin-top: -2px; /* Adjusts vertical "float" to align with text */
+
   &:before {
-    content: "X" !important; /* Manually insert the 'X' character */
-    font-family: "Arial", sans-serif !important; /* Use a clean sans-serif X */
-    font-weight: 800;
+    content: "X" !important;
+    font-family: "Verdana", sans-serif !important; /* Verdana has a cleaner 'X' */
+    font-size: 0.75rem !important; /* SHRINKS the X inside the box */
+    font-weight: 900 !important;
     font-style: normal;
+    line-height: 1;
   }
 
-  /* Apply your Green/White Theme */
-  background-color: #28a745 !important; /* Your theme's Green */
-  color: white !important;              /* White X */
-  padding: 4px 8px;
-  border-radius: 4px;
-  display: inline-block;
-  line-height: 1;
-  text-decoration: none;
-  
   &:hover {
-    background-color: #218838 !important; /* Darker green on hover */
-    color: #f8f9fa !important;
+    background-color: #218838 !important;
+    opacity: 0.9;
   }
 }
